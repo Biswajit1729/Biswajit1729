@@ -2,7 +2,7 @@
 - 👀 I’m interested in Flutter
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Flutter projects
-- 📫 How to reach me call me or whatasaap me on 6280849481
+- 📫 How to reach me call me or call me on 6280849481
 
 <!---
 Biswajit1729/Biswajit1729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
